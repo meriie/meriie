@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 ...
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
